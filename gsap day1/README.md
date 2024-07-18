@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Priyanshu Sutar
+- 👀 I’m interested in Software Development and Machine Learning
+- 🌱 I’m currently learning NextJs
+- 💞️ I’m looking to collaborate on Software Development
+- 📫 How to reach me : priyanshusutar1102@gmail.com
